@@ -1,0 +1,3 @@
+This is my directory that contains files from Google's Python Class found at https://developers.google.com/edu/python/.  I have modified and created many of the files from the
+source.  In this repository there are files that contain tests I've created to understand how certain functions and methods interact. The rest of the files are my solutions to 
+the problems given as well as the solutions that were given from the source.
